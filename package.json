@@ -1,0 +1,27 @@
+{
+  "name": "typescript-errorpropagation-example",
+  "version": "1.0.0",
+  "description": "An example and proposal for Error propagation structure in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayJayDee/Typescript-ErrorPropagation-Example.git"
+  },
+  "author": "JayJayDee <jindongp@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayJayDee/Typescript-ErrorPropagation-Example/issues"
+  },
+  "homepage": "https://github.com/JayJayDee/Typescript-ErrorPropagation-Example#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.42",
+    "@typescript-eslint/eslint-plugin": "^5.28.0",
+    "eslint": "^8.17.0",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  }
+}
